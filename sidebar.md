@@ -19,7 +19,8 @@
 - [BLUECOAT](/)
 
 - [BEYOND TRUST](/)
-[PASSWORD SAFE]("Beyound Trust"/BT_PASSWORD_SAFE.md)
+
+[PASSWORD SAFE]('Beyound Trust/BT_PASSWORD_SAFE.md')
 
 - [Changelog](changelog)
 
