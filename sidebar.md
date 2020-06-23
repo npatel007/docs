@@ -1,32 +1,32 @@
-- [CISCO](CISCO/README.md)
+# sidebar
 
-[ESA](ESA/ESA-MASTER-INDEX.md)
+* [CISCO](cisco/)
 
-[WSA](/)
+[ESA](esa/esa-master-index.md)
 
-[ISE](/)
+[WSA](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-[SWITCHING](/)
+[ISE](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-- [F5](/)
+[SWITCHING](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-[LTM](/)
+* [F5](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-[ASM](/)
+[LTM](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-[APM](/)
+[ASM](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-- [BLUECOAT](/)
+[APM](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-- [BEYOND TRUST](/)
+* [BLUECOAT](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
+* [BEYOND TRUST](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-[PASSWORD SAFE]('Beyound Trust/BT_PASSWORD_SAFE.md')
+\[PASSWORD SAFE\]\('Beyound Trust/BT\_PASSWORD\_SAFE.md'\)
 
-- [Changelog](changelog)
+* [Changelog](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/changelog/README.md)
+* **Links**
 
+  &lt;!-- - [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)NPM](https://www.npmjs.com/package/docsify-tabs)
 
+* [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/jhildenbiddle) --&gt;
 
-- **Links**
-<!-- - [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/jhildenbiddle/docsify-tabs) -->
-<!-- - [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)NPM](https://www.npmjs.com/package/docsify-tabs)
-- [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/jhildenbiddle) -->
