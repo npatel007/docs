@@ -23,6 +23,6 @@
 
 [PASSWORD SAFE] ('Beyound Trust/BT\_PASSWORD\_SAFE.md'\)
 
-[Free4Dev](Free4Dev/free4dev.md)
+[Free4Dev](Free4dev/free4dev.md)
 
 * [Changelog](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/changelog/README.md)
