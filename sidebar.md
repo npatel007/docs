@@ -12,7 +12,6 @@
 
 * [F5](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
-
 [LTM](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
 
 [ASM](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/README.md)
@@ -27,9 +26,3 @@
 [Free for Dev](Free for dev/free for dev.md)
 
 * [Changelog](https://github.com/npatel007/docs/tree/1c31263a0a7ae9c9321d3511df4de71a47fad1a7/changelog/README.md)
-* **Links**
-
-  &lt;!-- - [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)NPM](https://www.npmjs.com/package/docsify-tabs)
-
-* [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/jhildenbiddle) --&gt;
-
